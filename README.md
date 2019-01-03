@@ -1,6 +1,6 @@
-#Pseudo İnverse
-# MxN_MatrixInverse
-C# MxN Matrix Inverse Code
+
+# MxN_MatrixPseudoİnverse
+C#
 
 
 If the columns of a matrix A are linearly independent, so  AT· A  is invertible and we obtain with the following formula the pseudo inverse:
